@@ -96,7 +96,7 @@ URLs a lot:
 ```python
 >>> cl = Ontology("http://purl.obolibrary.org/obo/cl.obo")
 >>> stato = Ontology.from_obo_library("stato.owl")
-```#for ARGs here (ARO for antibiotic resistance ontology)
+```#for ARGs here (ARO for antibiotic resistance ontology--aro.owl from https://card.mcmaster.ca/download)
 >>> aro = Ontology.from_obo_library("aro.owl")
 
 ### 🏷️ Get a term by accession
